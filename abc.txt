@@ -1,1 +1,4 @@
-haha 
+git add 
+git commit -m "something something" 
+git push -u origin master
+git pull
